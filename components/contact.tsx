@@ -76,7 +76,7 @@ export default function Contact() {
                     rel="noopener noreferrer"
                     className="text-sm text-muted-foreground hover:text-primary transition-colors"
                   >
-                    0794296276
+                   +93 794296276
                   </a>
                 </div>
               </div>
